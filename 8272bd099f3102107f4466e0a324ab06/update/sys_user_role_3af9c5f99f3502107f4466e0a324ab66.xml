@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Users who administer the Loaner Request application.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_cdltd_loaner_req.admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 20:11:26</sys_created_on>
+        <sys_id>3af9c5f99f3502107f4466e0a324ab66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.admin</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">8272bd099f3102107f4466e0a324ab06</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">8272bd099f3102107f4466e0a324ab06</sys_scope>
+        <sys_update_name>sys_user_role_3af9c5f99f3502107f4466e0a324ab66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 20:11:26</sys_updated_on>
+    </sys_user_role>
+</record_update>
