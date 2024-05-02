@@ -38,7 +38,7 @@
         <message/>
         <message_html><![CDATA[<p>Dear ${requested_for},</p>
 <p>the ${item_type} (${cmdb_ci}) is available for pick up at ${depot}</p>
-<p>&nbsp;</p>
+<p>${mail_script:x_cdltd_loaner_req_loaner_request_script_1}</p>
 <p>Your reservation is scheduled to begin ${start_date}. Please return the time to the same location&nbsp; you picked it up at by ${end_date}.</p>
 <p>&nbsp;</p>]]></message_html>
         <message_list/>
@@ -62,7 +62,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b08d879b9f7502107f4466e0a324ab71</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Loaner Item Pick Up</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">8272bd099f3102107f4466e0a324ab06</sys_package>
@@ -70,7 +70,7 @@
         <sys_scope display_value="Loaner Request">8272bd099f3102107f4466e0a324ab06</sys_scope>
         <sys_update_name>sysevent_email_action_b08d879b9f7502107f4466e0a324ab71</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-01 21:41:40</sys_updated_on>
+        <sys_updated_on>2024-05-02 20:19:11</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
