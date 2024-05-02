@@ -148,5 +148,24 @@
             <sys_updated_on>2024-04-25 19:11:54</sys_updated_on>
             <value>3</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deployment Prep</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-30 19:41:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-30 19:41:34</sys_updated_on>
+            <value>19</value>
+        </sys_choice>
     </sys_choice>
 </record_update>
